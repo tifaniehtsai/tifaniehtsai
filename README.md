@@ -1,7 +1,7 @@
 ![Welcome](https://github.com/tifaniehtsai/tifaniehtsai/assets/155266031/66ae17d8-4c54-417b-b754-1496524f6ee5)
 ## Hello 👋 My name is Tifanie!
 ### About Me
-I am passionate about leveraging data to drive actionable insights and informed decision-making. I have a BA in Economics from NYU:purple_heart: and I am currently expanding my data analytics skills through LearningFuze!
+I am passionate about leveraging data to drive actionable insights and informed decision-making. I have a BA in Economics from NYU :purple_heart: and I am currently expanding my data analytics skills through LearningFuze!
 I am currently looking for data analyst positions, and hope to learn more while I further develop my education and skill set.
 
 :blush: I’m an aspiring data analyst and currently working on some Kaggle Projects.
